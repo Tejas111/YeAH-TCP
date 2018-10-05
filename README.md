@@ -39,3 +39,9 @@ Features of DCE:
 * It offers two modes of operation:
    *  Basic-mode where DCE uses the ns-3 TCP stacks.
    * Advanced-mode where DCE uses a Linux network stack instead.
+
+
+### **References**:
+* YeAH-TCP paper(
+ [http://infocom.uniroma1.it/~vacirca/yeah/yeah.pdf](http://infocom.uniroma1.it/~vacirca/yeah/yeah.pdf))
+* DCE Documentation ([https://www.nsnam.org/docs/dce/manual/ns-3-dce-manual.pdf](https://www.nsnam.org/docs/dce/manual/ns-3-dce-manual.pdf))
