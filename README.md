@@ -2,7 +2,7 @@
 ## <b>Yet another high speed TCP validation, using DCE(Direct-Code-Execution)</b>
 
 ### <b>What is YeAH-TCP?</b>
-Yet another high speed TCP A high speed TCP congestion control algorithm which uses a mixed loss/delay approach to calculate congestion windows.
+Yet another high speed TCP is a high speed TCP congestion control algorithm which uses a mixed loss/delay approach to calculate congestion windows.
 Its purpose is to target high efficiency, fairness, and minimizing link loss while keeping network elements load as
 low as possible. different considerations like efficiency in the bandwidth exploitation, average packet delay, internal and RTT fairness, friendliness to Reno, robustness to random losses are taken into account. 
 
